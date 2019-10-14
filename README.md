@@ -15,6 +15,7 @@ This can be accessed directly by Google Earth Engine
 #### Languages Used
 1. R
 2. JavaScript
+3. bash
 
 #### Implementation
 The initial spatial pre-processing will be done in Earth Engine. This involves image interpretation
