@@ -19,13 +19,13 @@ This can be accessed directly by Google Earth Engine
 
 #### Implementation
 The initial spatial pre-processing will be done in Earth Engine. This involves image interpretation
-of the Processed Level-1 data at different polarizations. Then earthEngineGrab can be used to connect
+of the Processed Level-1 data at different polarizations. Then earthEngineGrab [R package? insert citation] can be used to connect
 GEE with RStudio. Meaningful analysis can then be done in RStudio using ggplot2 to evaluate flood
-potential throughout a region.
+potential throughout a region [define region].
 
 #### Expected Products
 I intend to make two graphs of varying regional flood potential by region, each with the same month of two different
-years. Additionally, I would like to produce a visual from the SAR data that supplements the data displayed
+years. [Would these be raster-based?] Additionally, I would like to produce a visual from the SAR data that supplements the data displayed
 in the graphs.
 
 #### Questions for the Instructor
